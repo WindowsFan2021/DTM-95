@@ -1,0 +1,25 @@
+/**
+ * @name DTM-95
+ * @author LayTay
+ * @authorLink https://github.com/windowsfan2021
+ * @description Windows 9x classic styled theme discord
+ * @license MIT
+ * @version 0
+ * Theme Components used from Squaredcord, Vencord's ClientTheme Plugin
+ * Theme inspired by DTM-12 by Mari (https://github.com/kbity)
+*/
+
+@import url("https://minidiscordthemes.github.io/Squared/sq.min.css");
+
+:root {
+  --font-primary: "progresspixel", Arial, Helvetica, sans-serif;
+  --font-display: "Tahoma", Arial, Helvetica, sans-serif;
+}
+
+body, button {
+  font-family: "Tahoma", Arial, Helvetica, sans-serif;
+}
+
+.markup-2BOw-j code.inline {
+  font-family: Consolas, Menlo, Monaco, "Px437 IBM VGA 9x14", monospace;
+}
