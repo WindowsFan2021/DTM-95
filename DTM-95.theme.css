@@ -12,14 +12,21 @@
 @import url("https://minidiscordthemes.github.io/Squared/sq.min.css");
 
 :root {
-  --font-primary: "progresspixel", Arial, Helvetica, sans-serif;
+  --font-primary: "Microsoft Sans Serif", Arial, Helvetica, sans-serif;
   --font-display: "Tahoma", Arial, Helvetica, sans-serif;
 }
 
 body, button {
-  font-family: "Tahoma", Arial, Helvetica, sans-serif;
+  font-family: "Verdana", Arial, Helvetica, sans-serif;
 }
 
 .markup-2BOw-j code.inline {
-  font-family: Consolas, Menlo, Monaco, "Px437 IBM VGA 9x14", monospace;
+  font-family: Consolas, Menlo, Monaco, "PxPlus IBM VGA 8x16", monospace;
+}
+
+::-webkit-input-placeholder,
+input,
+select,
+textarea {
+  font-family: "Verdana", Arial, Helvetica, sans-serif;
 }
