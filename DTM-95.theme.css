@@ -21,7 +21,7 @@ body, button {
 }
 
 .markup-2BOw-j code.inline {
-  font-family: Consolas, Menlo, Monaco, "PxPlus IBM VGA 8x16", monospace;
+  font-family: "PxPlus IBM VGA 8x16", Consolas, Lucida Console, monospace;
 }
 
 ::-webkit-input-placeholder,
